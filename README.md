@@ -27,5 +27,5 @@ Web Developer and Content Writer
 ![](https://github-readme-stats.vercel.app/api?username=Mochamad-Rizky&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mochamad-Rizky&theme=onedark&hide_border=true)<br/>
 
-<a href="http://www.github.com/Mochamad-Rizky"><img src="https://activity-graph.herokuapp.com/graph?username=Mochamad-Rizky&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mochamad-Rizky&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mochamad-Rizky&theme=redical&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mochamad-Rizky&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
