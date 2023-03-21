@@ -10,7 +10,6 @@ Web Developer and Content Writer
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [moch.rizky.cahya@gmail.com](mailto:moch.rizky.cahya@gmail.com)
-* 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on interesting project
 
 # 💻Tech Stack
