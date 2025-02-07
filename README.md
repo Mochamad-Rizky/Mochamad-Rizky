@@ -24,8 +24,7 @@ Web Developer and Content Writer
 ### Badges
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Mochamad-Rizky&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mochamad-Rizky&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mochamad-Rizky&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mochamad-Rizky&theme=redical&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mochamad-Rizky&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
